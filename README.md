@@ -1,2 +1,3 @@
-# acnologia
-stock prices predictor
+# ACNOLOGIA
+STOCK PRICES PREDICTOR
+NEURAL NETWORK MANNERISM
